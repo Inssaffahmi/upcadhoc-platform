@@ -27,4 +27,4 @@
   }
 }import logo from './public/logo-upcadhoc.png';
 <img src={logo} alt="Logo UpCadhoc" />
-
+Correction JSON pour déploiement Vercel
