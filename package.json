@@ -25,4 +25,6 @@
       "last 1 safari version"
     ]
   }
-}
+}import logo from './public/logo-upcadhoc.png';
+<img src={logo} alt="Logo UpCadhoc" />
+
